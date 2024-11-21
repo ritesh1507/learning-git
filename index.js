@@ -5,4 +5,4 @@ const a=12
 const b=5
 const result=0
 
-result=add(a,b)
+result = add(a,b)
