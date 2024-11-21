@@ -3,5 +3,6 @@ import product from product.js
 
 const a=12
 const b=5
-const result=0;
+const result=0
 
+result=add(a,b)
