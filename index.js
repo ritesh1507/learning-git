@@ -7,7 +7,7 @@ let result1=0
 let result2=0
 
 result1 = add(a,b)
-console.log(result1)
+console.log(`sum of ${a} and ${b} is ${result1}`)
 
 result2 = power(a,b)
 console.log(`${a} to the power ${b} is ${result2}`)
