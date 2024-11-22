@@ -3,8 +3,8 @@ import power from './power.js'
 
 const a=12
 const b=5
-var result1=0
-var result2=0
+let result1=0
+let result2=0
 
 result1 = add(a,b)
 console.log(result1)
