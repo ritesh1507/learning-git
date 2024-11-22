@@ -1,8 +1,13 @@
-import add from add.js
-import product from product.js
+import add from './add.js'
+import power from './power.js'
 
 const a=12
 const b=5
-const result=0
+var result1=0
+var result2=0
 
-result = add(a,b)
+result1 = add(a,b)
+console.log(result1)
+
+result2 = power(a,b)
+console.log(`${a} to the power ${b} is ${result2}`)
